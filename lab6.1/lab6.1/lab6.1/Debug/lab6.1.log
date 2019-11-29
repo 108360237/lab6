@@ -1,0 +1,2 @@
+﻿  main.c
+c:\users\user\desktop\lab6\lab6.1\source\main.c(3): fatal error C1083: 無法開啟包含檔案: 'Information.h': No such file or directory
